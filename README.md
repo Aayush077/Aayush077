@@ -1,5 +1,5 @@
 
-# Hi there, I'm Aayush 👋<br><br>I'm a passionate **Undergraduate**. I enjoy working on **C programming**, **data structures**, and **algorithm development**. Currently, I'm focused on enhancing my skills in **full-stack development** and contributing to **open-source projects**.<br><br>---<br><br>### 🌱 Fun Facts:<br>- I’m currently learning **React** and **Node.js**.<br>- I enjoy contributing to open-source projects on GitHub.<br>- I love solving complex algorithmic challenges on coding platforms.<br><br>Thanks for stopping by! 😊<br>
+# Hi there, I'm Aayush 👋<br><br>I'm a passionate **Undergraduate**. I enjoy working on **C programming**, **data structures**, and **algorithm development**. Currently, I'm focused on enhancing my skills in **full-stack development** and contributing to **open-source projects**.<br><br>---<br><br>### 🌱<br>- I’m currently learning **React** and **Node.js**.<br>- I enjoy contributing to open-source projects on GitHub.<br>- I love solving complex algorithmic challenges on coding platforms.<br><br>Thanks for stopping by! 😊<br>
 
 
 ## 🌐 Socials:
